@@ -6,6 +6,7 @@ Module 5 Week B Integration Task for AISPIRE Applied AI & ML Systems.
 
 ```bash
 pip install -r requirements.txt
+git checkout -b integration-5b-model-comparison
 ```
 
 ## Tasks
